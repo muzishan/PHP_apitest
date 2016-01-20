@@ -11,5 +11,7 @@ echo "<meta charset=\"utf-8\">";
 echo "<title>安装程序</title>";
 echo "</head>";
 echo "<body>";
+echo "<h1>安装程序</h1>";
+echo "";
 echo "</body>";
 echo "</html>";
